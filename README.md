@@ -4,7 +4,7 @@ In no particular order:
 
 1. Concise and clear code- easy to follow and potentially modify. Bonus points for good use of functions for DRY-ness (not needed if repetition is kept to a minimum in other ways)
 2. Reasonably performant code- doesn’t require excess computation or memory given what it achieves
-3. Resourceful use of libraries and tools (e.g caret for grid search or seaborne for graphs)- uses the right tools for job and minimizes reinvention of existing functions
+3. Resourceful use of libraries and tools (e.g caret for grid search or seaborn for graphs)- uses the right tools for job and minimizes reinvention of existing functions
 4. Notes or comments in code when needed or helpful
 5. Runs basic profiles and sanity-checks on the data (e.g. counts, duplicates, min and max)
 6. Explores relationships in the data
